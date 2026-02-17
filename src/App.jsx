@@ -30,12 +30,12 @@ function App() {
     <>
       <Header 
         title="Ameni Gharbi"
-        tagline="Frontend Developer | React Enthusiast"
+        tagline="Full Stack Developer"
       />
 
       <About
         profileImage="https://via.placeholder.com/180"
-        bio="Hi! I'm Ameni, a passionate frontend developer currently mastering React and modern web technologies. I love building clean, responsive, and user-friendly interfaces."
+        bio="Hi! I'm Ameni, a full-stack developer passionate about building scalable backend systems and modern, responsive user interfaces. I enjoy turning ideas into complete, high-performance web applications."
         skills={skills}
       />
 
